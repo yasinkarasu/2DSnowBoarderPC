@@ -1,0 +1,12 @@
+# ninja log v5
+40	385	7537146809783182	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	5b861726fa17bcce
+387	699	7537146812234996	C:/Users/Yasin/Desktop/Snow Board Yedek/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/583z1r30/obj/arm64-v8a/libswappywrapper.so	eae2f2b2effb8a54
+5	1486	7537146820995574	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	54dc6bab6eb14afa
+18	1489	7537146820995574	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	927aab85d28606b1
+36	1535	7537146821501439	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	37fbdac266212cb
+13	1610	7537146822278679	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	14b4f3f454cb8146
+29	1618	7537146822338485	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	547486a0e8dc0769
+9	1712	7537146823272743	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	b07db5b2c8da486e
+22	1885	7537146825033723	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	b9e43d5b86b28352
+1	1944	7537146825635359	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	1024df1dcc720ab5
+1944	2000	7537146826181424	C:/Users/Yasin/Desktop/Snow Board Yedek/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/583z1r30/obj/arm64-v8a/libgame.so	3021fc92af622904

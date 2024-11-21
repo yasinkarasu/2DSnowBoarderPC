@@ -1,0 +1,37 @@
+# Unity Gereksiz Dosyaları
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Uu]ser[Ss]ettings/
+*.csproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.vc.db
+
+# Android ve Önbellek Dosyaları
+.android/
+.cache/
+.idea/
+gradle/
+build/
+*.iml
+*.apk
+*.unitypackage
+.continue/
+dev_data/
+
+
+
+# Diğer Geçici Dosyalar
+.DS_Store
+Thumbs.db
