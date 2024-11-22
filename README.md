@@ -11,7 +11,7 @@ A fun 2D snowboard game where players glide through challenging slopes and exper
 ## 📥 Download the .exe for Desktop
 Download the game using the link below:
 
-- [Download Latest Release (Windows .exe)](https://github.com/yasinkarasu/2DSnowBoarderPC/releases/tag/V1.0.0)
+- [Download Latest Release (Windows .exe)](https://github.com/yasinkarasu/2DSnowBoarderPC/releases/tag/V1.0.1)
 
 ## 🛠️ Technologies Used
 - **Unity**: Game development engine
