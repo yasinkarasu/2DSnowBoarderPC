@@ -27336,7 +27336,7 @@ Transform:
   m_GameObject: {fileID: 519420028}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.9517283, y: -1.7, z: -10}
+  m_LocalPosition: {x: 8.27211, y: -1.7, z: -10}
   m_LocalScale: {x: 1.1974, y: 1.325, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -32994,7 +32994,7 @@ Transform:
   m_GameObject: {fileID: 816741508}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 7.9517283, y: -1.7, z: -10}
+  m_LocalPosition: {x: 8.27211, y: -1.7, z: -10}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
@@ -40181,7 +40181,7 @@ GameObject:
   - component: {fileID: 1697485355}
   - component: {fileID: 1697485357}
   m_Layer: 0
-  m_Name: Sprite-0001_0
+  m_Name: Ghost
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -40251,7 +40251,7 @@ Transform:
   m_GameObject: {fileID: 1697485354}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 1, z: 0, w: 0}
-  m_LocalPosition: {x: -7.234575, y: 1.181653, z: 0}
+  m_LocalPosition: {x: -24.234575, y: 16.181652, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -40270,6 +40270,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Target: {fileID: 285311452}
+  FollowSpeed: 20
+  MinDistance: 2.5
+  MaxDistance: 10
 --- !u!1 &1735925686
 GameObject:
   m_ObjectHideFlags: 0
